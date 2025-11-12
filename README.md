@@ -1,9 +1,11 @@
 # Star Wars Character App
 
 ## Run locally
-1. npm install
-2. npm run dev
-3. Open http://localhost:5173
+1. Git clone:https://github.com/Shivanshu-samadhiya/Star-wars-characters
+2. cd Star-wars-characters
+3. npm install
+4. npm run dev
+5. Open http://localhost:5173
 
 ## Features implemented
 - Fetch SWAPI /people with pagination
